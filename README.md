@@ -1,4 +1,4 @@
-# Sherwin Jenkins -> Docker 
+#  Jenkins -> Docker 
 
 This creates a custom Jenkins image (from the official Jenkins dockerhub  image), adding in the ability to do Docker and Ruby things.
 
